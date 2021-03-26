@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329424500980",
+    "project_id": "ephrom-53980",
+    "storage_bucket": "ephrom-53980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329424500980:android:fffc863379839c94f2c6a1",
+        "android_client_info": {
+          "package_name": "com.example.teste_ephrom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329424500980-k8u65n75as5kcibe33huj8vmdephhvs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgeZaw5ETVnjqwsTudTpRPbPIfI794ULo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329424500980-k8u65n75as5kcibe33huj8vmdephhvs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
